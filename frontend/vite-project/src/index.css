@@ -1,0 +1,51 @@
+/* Custom styles for Todo Application */
+.container {
+    max-width: 900px;
+  }
+  
+  h2, h3 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  .text-center{
+    color: white;
+  }
+  
+  input[type="text"] {
+    border-radius: 0.375rem; /* rounded corners */
+  }
+  
+  button {
+    border-radius: 0.375rem;
+  }
+  
+  .list-group-item {
+    border: 1px solid #dee2e6; /* light gray border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* soft shadow */
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  
+  .text-success {
+    color: #28a745 !important;
+  }
+  
+  .text-danger {
+    color: #dc3545 !important;
+  }
+  
+  .mt-4, .mb-4 {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+  }
+  
+  .shadow-sm {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  }
+  
+  .rounded {
+    border-radius: 0.375rem;
+  }
+  
